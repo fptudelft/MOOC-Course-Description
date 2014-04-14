@@ -11,4 +11,5 @@ This course will Haskell as the medium for understanding the basic functional pr
 
 Once you understand the Why, What and How that underlies pure functional programming and learned to “think like a fundamentalist”, we will apply the concepts of functional programming to “code like a hacker” in mainstream programming languages. 
 
+
 The recommended textbook for this course is Programming in Haskell by Graham Hutton (http://www.cs.nott.ac.uk/~gmh/book.html). 
