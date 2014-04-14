@@ -7,7 +7,7 @@ Broadly speaking, functional programming is a style of programming in which the 
 
 Functional languages represent the leading edge of programming language design, and the primary setting in which new programming concepts are introduced and studied. All contemporary programming languages such as Hack/PHP, C#, Visual Basic, F#, C++, JavaScript, Python, Ruby, Java, Scala, Clojure, Groovy, Racket, … all support functional programming via the concept of closures or lambda expressions. 
 
-This course will Haskell as the medium for understanding the basic functional principles. While the specific language isn't all that important, Haskell is a pure functional language so it is entirely appropriate for learning the essential ingredients of functional programming. It is also a relatively small language and should be easy for you to get up to speed with Haskell.
+This course will use Haskell as the medium for understanding the basic functional principles. While the specific language isn't all that important, Haskell is a pure functional language, so it is entirely appropriate for learning the essential ingredients of functional programming. It is also a relatively small language and should be easy for you to get up to speed with Haskell.
 
 Once you understand the Why, What and How that underlies pure functional programming and learned to “think like a fundamentalist”, we will apply the concepts of functional programming to “code like a hacker” in mainstream programming languages. 
 
