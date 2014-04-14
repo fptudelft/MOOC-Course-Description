@@ -5,4 +5,5 @@ Languages for labs
 * Java 8
 * Scala
 * F#
+* C#
 * ...
