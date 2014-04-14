@@ -7,6 +7,7 @@ Possible advanced topics (for extra credit)
 * Denotational semantics
 * Functional Reactive Programming (perhaps Elliot and Hudak's paper?)
 * HaskellDB / HDBC
+* Solving the expression problem with [tagless-final interpreters](http://okmij.org/ftp/tagless-final/course/)
 
 Suggested fun readings
 ======================
