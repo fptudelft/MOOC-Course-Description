@@ -5,7 +5,7 @@ Possible advanced topics (for extra credit)
 * [Scrap your boilerplate](http://research.microsoft.com/en-us/um/people/simonpj/papers/hmap/gmap3.pdf)
 * Elementary category theory
 * Denotational semantics
-* Functional Reactive Programming (perhaps Elliot and Hudak's paper?)
+* Functional Reactive Programming (perhaps Elliott and Hudak's paper?)
 * HaskellDB / HDBC
 * Solving the expression problem with [tagless-final interpreters](http://okmij.org/ftp/tagless-final/course/)
 
